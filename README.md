@@ -1,6 +1,6 @@
 # Liang_Index_climdyn
 
-This github repository provides the code for computing the transfer of information between variables:
+This github repository provides the codes for computing the transfer of information between variables:
 - function_liang.py allows to compute the transfer of information from variable x2 to variable x1 based on Liang (2014)
 - function_liang_nvar.py allows to compute the transfer of information for multivariate time series based on Liang (2021).
 

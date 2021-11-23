@@ -9,4 +9,4 @@ Docquier, D., S. Vannitsem, F. Ragone, K. Wyser, X. S. Liang (in review). Causal
 
 References:
 - Liang, X. S. (2014). Unraveling the cause-effect relation between time series. Physical Review E , https://doi.org/10.1103/PhysRevE.90.052150.
-- iang, X. S. (2021). Normalized multivariate time series causality analysis and causal graph reconstruction. Entropy, https://doi.org/10.3390/e23060679.
+- Liang, X. S. (2021). Normalized multivariate time series causality analysis and causal graph reconstruction. Entropy, https://doi.org/10.3390/e23060679.

@@ -5,7 +5,7 @@ This github repository provides the codes for computing the transfer of informat
 - function_liang_nvar.py allows to compute the transfer of information for multivariate time series based on Liang (2021).
 
 If you use this code, please cite the following paper:
-Docquier, D., S. Vannitsem, F. Ragone, K. Wyser, X. S. Liang (in review). Causal links between Arctic sea ice and its potential drivers based on the rate of information transfer. https://doi.org/10.1002/essoar.10507846.1.
+Docquier, D., S. Vannitsem, F. Ragone, K. Wyser, X. S. Liang (2022). Causal links between Arctic sea ice and its potential drivers based on the rate of information transfer. https://doi.org/10.1029/2021GL095892.
 
 References:
 - Liang, X. S. (2014). Unraveling the cause-effect relation between time series. Physical Review E , https://doi.org/10.1103/PhysRevE.90.052150.

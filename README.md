@@ -1,12 +1,10 @@
-# Liang_Index_climdyn
+# Liang-Kleeman information flow (LKIF)
 
-This github repository provides the codes for computing the transfer of information between variables:
-- function_liang.py allows to compute the transfer of information from variable x2 to variable x1 based on Liang (2014)
-- function_liang_nvar.py allows to compute the transfer of information for multivariate time series based on Liang (2021).
+This repository provides the codes for computing the rate of information transfer (in other words, the causal influences) between variables:
+- function_liang.py allows to compute the rate of information transfer between 2 variables on [Liang (2014)](https://doi.org/10.1103/PhysRevE.90.052150)
+- function_liang_nvar.py allows to compute the rate of information transfer for multivariate time series based on [Liang (2021)](https://doi.org/10.3390/e23060679)
+- 
 
-If you use this code, please cite the following paper:
-Docquier, D., S. Vannitsem, F. Ragone, K. Wyser, X. S. Liang (2022). Causal links between Arctic sea ice and its potential drivers based on the rate of information transfer. https://doi.org/10.1029/2021GL095892.
-
-References:
-- Liang, X. S. (2014). Unraveling the cause-effect relation between time series. Physical Review E , https://doi.org/10.1103/PhysRevE.90.052150.
-- Liang, X. S. (2021). Normalized multivariate time series causality analysis and causal graph reconstruction. Entropy, https://doi.org/10.3390/e23060679.
+If you use one of these codes, please cite one of the following papers:
+- Docquier, D., S. Vannitsem, F. Ragone, K. Wyser, X. S. Liang (2022). Causal links between Arctic sea ice and its potential drivers based on the rate of information transfer. _Geophysical Research Letters_, [https://doi.org/10.1029/2021GL095892](https://doi.org/10.1029/2021GL095892).
+- Docquier, D., G. Di Capua, R. V. Donner, C. A. L. Pires, A. Simon, S. Vannitsem (2024). A comparison of two causal methods in the context of climate analyses, _Nonlinear Processes in Geophysics_, [https://doi.org/10.5194/npg-31-115-2024][(https://doi.org/10.5194/npg-31-115-2024).

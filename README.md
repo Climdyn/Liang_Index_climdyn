@@ -1,6 +1,6 @@
 # Liang-Kleeman information flow (LKIF)
 
-This repository provides the codes for computing the rate of information transfer (in other words, the causal influences) between variables:
+This repository provides the codes for computing the rates of information transfer (in other words, the causal influences) between variables:
 - function_liang.py allows to compute the rate of information transfer between 2 variables based on [Liang (2014)](https://doi.org/10.1103/PhysRevE.90.052150)
 - function_liang_nvar.py allows to compute the rate of information transfer for multivariate time series based on [Liang (2021)](https://doi.org/10.3390/e23060679)
 - function_liang_nvar_adapted.py is an extension of the previous code with the possibility to choose between two types of error computation.
